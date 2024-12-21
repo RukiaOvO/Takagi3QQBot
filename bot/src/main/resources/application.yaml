@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+logging:
+  level:
+    com:
+      qqbot:
+        mapper: debug
+        service: info
+        controller: info
